@@ -1,0 +1,35 @@
+.container{
+    position: absolute;
+    width: 10%; 
+    /* height: 550px; */
+    min-width: 580px;
+    margin: 10px 10px 10px 10px;
+    transform: translate(-50%,-50%); 
+    top: 50%;
+    left: 50%; 
+    background-color: #0999f1;
+    padding: 50px 10px;
+    border-radius: 10px;
+    display: grid;
+    justify-items: center; 
+    font-family: 'Poppins',sans-serif; 
+}
+h3{
+    font-size:46px;
+    font-weight: 600;
+}
+form{
+    width: 500px;
+    height: 500px;
+    font-weight: 600;
+    color: #663399;
+    padding: 10px 10px;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    border-radius: 50px;
+    border: 2px solid #202020;
+    font-size: 28px;
+}
+body{
+    background-color: rgb(227, 249, 249);
+}
